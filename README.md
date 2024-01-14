@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Html5, Css3, Javascript, React js, Java, DBMS**
+- 💬 Ask me about **Html5, CSS3, JavaScript, React js, Java, DBMS**
 
 - 📝 I regularly write articles on <a href="techcompreviews.in" target="blank">techcompreviews.in</a>
 
