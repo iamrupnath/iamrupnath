@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Html5, Css3, Javascript, React js, Java, DBMS**
 
-- 📝 I regularly write articles on [www.techcompreviews.in](www.techcompreviews.in)
+- 📝 I regularly write articles on <a href="techcompreviews.in" target="blank">techcompreviews.in</a>
 
 - 📫 How to reach me **rupnathshaw@gmail.com**
 
