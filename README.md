@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrupnath&label=Profile%20views&color=0e75b6&style=flat" alt="iamrupnath" /> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Html5, Css3, Javascript, Java, DBMS**
+- 💬 Ask me about **Html5, Css3, Javascript, React js, Java, DBMS**
 
 - 📝 I regularly write articles on [www.techcompreviews.in](www.techcompreviews.in)
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iamrupnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamrupnath" height="30" width="40" /></a>
+<a href="https://twitter.com/rupnathshaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamrupnath" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rupnath-shaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupnath-shaw" height="30" width="40" /></a>
 <a href="https://instagram.com/iamrupnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamrupnath" height="30" width="40" /></a>
 <a href="https://medium.com/@coderupnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@coderupnath" height="30" width="40" /></a>
