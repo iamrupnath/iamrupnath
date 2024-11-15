@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrupnath&label=Profile%20views&color=0e75b6&style=flat" alt="iamrupnath" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Data Analytics**
 
-- 💬 Ask me about **Html5, CSS3, JavaScript, React js, Java, DBMS**
+- 💬 Ask me about **Html5, CSS3, JavaScript, React js, DBMS, SQL, Python, Power BI**
 
 - 📝 I regularly write articles on <a href="techcompreviews.in" target="blank">techcompreviews.in</a>
 
